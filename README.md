@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Africa-Khoza
 - 👀 I’m interested in deep learning
 - 🌱 I’m currently learning deep reinforcement learning
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on projects using machine learning to help solve problems in education. 
 - 📫 To contact me, visit my [website](https://africakhoza.co.za) and fill in the contact form. 
 
 <!---
