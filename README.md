@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Africa-Khoza
 - 👀 I’m interested in deep learning
-- 🌱 I’m currently learning deep reinforcment learning
+- 🌱 I’m currently learning deep reinforcement learning
 - 💞️ I’m looking to collaborate on 
 - 📫 To contact me, visit my [website](https://africakhoza.co.za) and fill in the contact form. 
 
