@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Africa-Khoza
 - 👀 I’m interested in making cool shit
-- 🌱 I’m currently learning how to use iMovie 🎥
+- 🌱 I’m currently learning how to build web apps using FASTAPI
 - 💞️ I’m looking to collaborate on dopeass projects
 - 📫 To contact me, visit my [website](https://africakhoza.co.za) and fill in the contact form. 
 
